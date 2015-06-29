@@ -7,7 +7,7 @@ import javax.swing.event.MouseInputAdapter;
  * 
  * @author tomasz.mista
  * 
- * MouseListener class for listening user mouse clicks
+ * MouseListener class for listening mouse clicks
  *
  */
 

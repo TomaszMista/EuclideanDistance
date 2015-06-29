@@ -7,6 +7,7 @@ import java.util.Vector;
  * 
  * @author tomasz.mista
  *
+ * PointSet class
  */
 
 public class PointSet {
